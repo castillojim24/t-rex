@@ -1,0 +1,19 @@
+token: ""
+path:
+minerName: HIVEOS
+apiKey: c163f207-2367-44bf-bc76-57accce59578
+cachePath: ""
+deviceId: ""
+extraParams: {}
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  info: ""
+  submit: ""
+  line: ""
+scanPath: true
+scanMinute: 10
+debug: ""
+language: en
